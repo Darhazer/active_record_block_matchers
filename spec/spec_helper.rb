@@ -1,5 +1,5 @@
 $LOAD_PATH.unshift File.expand_path("../../lib", __FILE__)
-require "active_record_block_matchers"
+require "active_record_change_matchers"
 require "sqlite3"
 require "database_cleaner"
 require "pry"

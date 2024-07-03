@@ -5,7 +5,7 @@ require "active_record_change_matchers/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "active_record_change_matchers"
-  spec.version       = ActiveRecordBlockMatchers::VERSION
+  spec.version       = ActiveRecordChangeMatchers::VERSION
   spec.authors       = ["Maxim Krizhanovski", "Nathan Wallace"]
   spec.email         = ["maxim.krizhanovski@hey.com"]
 
